@@ -1,19 +1,31 @@
-# task-tracker
+# Task Tracker - VueJs Project
 
-## Project setup
-```
-npm install
-```
+In this project I have created a task tracker application using VueJs.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Table of contents
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- [Overview](#overview)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Overview
+
+### Links
+
+- Live Site URL: [Task Tracker](https://zoxabbasi.github.io/vuejs_task-tracker/)
+
+## My process
+
+- Using VueJs to create and manage the page.
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+
+## Author
+
+- Website - [Talal Abbasi](https://zoxabbasi.github.io/)
+- Twitter - [@zoxabbasi](https://www.twitter.com/zoxabbasi)
